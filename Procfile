@@ -1,0 +1,1 @@
+web: gunicorn Hotel_bookings_cancellation:app
